@@ -24,13 +24,17 @@ I experimented with a Conv1D NN Architecture and a Bidirectional LSTM NN Archite
 NN Architecture achieved nearly the same results, but with a drastically lower training time.
 [Github](https://github.com/lukemonington/yelp_reviews)
 
-### Pokemon Images - Autoencoder / GAN
+### Pokemon Images - Autoencoder / GAN [Completed]
 An autoencoder is a type of NN which is used to learn efficient representations for a set of data by ignoring the noise.
 The purpose of this project was to train an autoencoder to remove gaussian noise from pokemon images. From there, I
 attempted to build a GAN to generate new pokemon images.
 [Github](https://github.com/lukemonington/pokemon_images_gan)
 
-### Facial Recognition - VGGFace / OpenCV
+### Facial Recognition - VGGFace / OpenCV [Completed]
+OpenCV is a library of programming functions mainly aimed at real-time computer vision. One of its uses is for facial recognition.
+In this project, I use OpenCV to detect faces and eyes in images using OpenCV's Haar feature-based cascade classifier. This classifier 
+also returns the location, height, and width of the face. I use that information in order to crop out the face from images and videos.
+From there, I use the VGGFace pretrained Neural Network to do One Shot Learning and perform real-time facial recognition with my webcam.
 [Github](https://github.com/lukemonington/facial_recognition_opencv)
 
 ### Categorical Feature Encoding Challenge - Machine Learning
