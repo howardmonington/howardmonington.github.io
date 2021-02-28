@@ -37,7 +37,10 @@ also returns the location, height, and width of the face. I use that information
 From there, I use the VGGFace pretrained Neural Network to do One Shot Learning and perform real-time facial recognition with my webcam.
 [Github](https://github.com/lukemonington/facial_recognition_opencv)
 
-### Categorical Feature Encoding Challenge - Machine Learning
+### Categorical Feature Encoding Challenge - Machine Learning [Completed]
+In this project, I experimented with different types of categorical features, sampling methods, and predictive algorithms in order to 
+implement machine learning. This required different methods of feature engineering in order to work with the dataset, which consisted of 
+5 binary columns, 10 nominal columns, and 6 ordinal columns. 
 [Github](https://github.com/lukemonington/Categorical-Feature-Encoding-Challenge)
 
 ### Don't Overfit AI Challenge - Machine Learning
