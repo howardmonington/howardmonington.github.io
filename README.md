@@ -2,9 +2,6 @@
 
 This portfolio is a compilation of AI notebooks which I wrote in order to explore machine learning and deep learning.
 
-## Stand-alone projects.
-Test test test
-
 ### Temperature Regulator - Reinforcement Learning
 One of the problems in my current apartment is that the shower temperature fluctuates frequently. Especially 
 if someone flushes the toilet. In this project, I wanted to simulate the fluctuating shower environment and 
@@ -28,25 +25,31 @@ NN Architecture achieved nearly the same results, but with a drastically lower t
 [Github](https://github.com/lukemonington/yelp_reviews)
 
 ### Pokemon Images - Autoencoder / GAN
+[Github](https://github.com/lukemonington/pokemon_images_gan)
 
+### Facial Recognition - VGGFace / OpenCV
+[Github](https://github.com/lukemonington/facial_recognition_opencv)
 
+### Categorical Feature Encoding Challenge - Machine Learning
+[Github](https://github.com/lukemonington/Categorical-Feature-Encoding-Challenge)
 
+### Don't Overfit AI Challenge - Machine Learning
+[Github](https://github.com/lukemonington/Don-t-Overfit-AI-Challenge)
 
+### Predicting Higgs Boson - Machine Learning
+[Github](https://github.com/lukemonington/Higgs-Boson-machine-learning-challenge)
 
-## Kaggle competitions.
+### Fraud Detection - Machine Learning
+[Github](https://github.com/lukemonington/IEEE-CIS-Fraud-Detection-AI-Competition)
 
-## Kaggle kernels.
+### Household Electric Power Consumption
+[Github](https://github.com/lukemonington/household_electric_power_consumption)
 
-## Classification problems.
+### Super Resolution
+[Github](https://github.com/lukemonington/super_resolution)
 
-## Regression problems.
+### Genetic Algorithm
+[Github](https://github.com/lukemonington/genetic_algorithm)
 
-## Natural language processing.
-
-## Clustering
-
-## Neural networks
-
-## Data exploration and analysis
-
-## Recommendation systems.
+### Car Rental Company Relational Database
+[Github](https://github.com/lukemonington/Car-Rental-Company-Relational-Database)
