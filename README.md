@@ -25,7 +25,9 @@ NN Architecture achieved nearly the same results, but with a drastically lower t
 [Github](https://github.com/lukemonington/yelp_reviews)
 
 ### Pokemon Images - Autoencoder / GAN
-
+An autoencoder is a type of NN which is used to learn efficient representations for a set of data by ignoring the noise.
+The purpose of this project was to train an autoencoder to remove gaussian noise from pokemon images. From there, I
+attempted to build a GAN to generate new pokemon images.
 [Github](https://github.com/lukemonington/pokemon_images_gan)
 
 ### Facial Recognition - VGGFace / OpenCV
