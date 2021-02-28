@@ -20,6 +20,15 @@ I first did this by building my own Convolutional Neural Network using MaxPoolin
 Then, I used transfer learning with the ResNet50V2 architecture to improve on those results.
 [Github](https://github.com/lukemonington/landscape_classification)
 
+### Yelp Reviews - NLP Binary Classifier
+In this project, I worked with the Yelp Reviews dataset, which contains over 7 million reviews. The purpose of this project 
+is to use NLP to classify these Yelp reviews into positive reviews (4-5 stars) and negative reviews (1-2 stars). To do this, 
+I experimented with a Conv1D NN Architecture and a Bidirectional LSTM NN Architecture. In the end, I found that the Conv1D 
+NN Architecture achieved nearly the same results, but with a drastically lower training time.
+[Github](https://github.com/lukemonington/yelp_reviews)
+
+### Pokemon Images - Autoencoder / GAN
+
 
 
 
