@@ -43,27 +43,29 @@ implement machine learning. This required different methods of feature engineeri
 5 binary columns, 10 nominal columns, and 6 ordinal columns. 
 [Github](https://github.com/lukemonington/Categorical-Feature-Encoding-Challenge)
 
-### Household Electric Power Consumption
+### Household Electric Power Consumption - Neural Networks [Completed]
 One promising use of neural networks is for time series forecasting. Here, I work with forecasting electric power consumption in
 a single household, when given 4 years of data with a one-minute sampling rate. First, I try predicting a single time step into the future.
 I build and compare models such as linear models, Neural Networks, CNNs, and LSTM Neural Networks. Then, I build and compare models that predict
 24 time steps into the future.
 [Github](https://github.com/lukemonington/household_electric_power_consumption)
 
-### Super Resolution
-[Github](https://github.com/lukemonington/super_resolution)
-
-### Genetic Algorithm
+### Hourly Staff Planning - Genetic Algorithms [Completed]
+Staff planning is a topic of optimization research that comes back in many companies. As soon as a company has many employees, it becomes 
+hard to find planning that suits the business needs while respecting certain constraints. In this project, I implement genetic 
+algorithms to find an optimal hourly staff planning solution.
 [Github](https://github.com/lukemonington/genetic_algorithm)
 
-### Don't Overfit AI Challenge - Machine Learning
+### Don't Overfit AI Challenge - Machine Learning [Completed]
+In this project, I was challenged to not overfit to a dataset with only 300 features and 250 observations ot training data, while
+predicting 19,750 rows of test data. The dataset was unbalanced, with almost twice as many positive examples as negative examples,
+so I applied Synthetic Minority Over-sampling (SMOTE) to make the dataset more balanced. Then I compared the performance of different
+classifiers such as RandomForestClassifier, SVC, and KNeighborsClassifier.
 [Github](https://github.com/lukemonington/Don-t-Overfit-AI-Challenge)
 
-### Predicting Higgs Boson - Machine Learning
-[Github](https://github.com/lukemonington/Higgs-Boson-machine-learning-challenge)
-
-### Fraud Detection - Machine Learning
-[Github](https://github.com/lukemonington/IEEE-CIS-Fraud-Detection-AI-Competition)
-
-### Car Rental Company Relational Database
+### Car Rental Company Relational Database [Completed]
+The challenge was to develop a relational database using Oracle SQL Developer for a hypothetical car rental business with several addresses. 
+The business rents multiple different types of cars, which each have their own respective rental prices. The rental pricing is also dependent 
+upon available promotions. Additionally, the business keeps track of all of its customers and employees. It is also possible to be both an 
+employee and a customer at the same time.
 [Github](https://github.com/lukemonington/Car-Rental-Company-Relational-Database)
