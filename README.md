@@ -46,7 +46,7 @@ implement machine learning. This required different methods of feature engineeri
 ### Household Electric Power Consumption
 One promising use of neural networks is for time series forecasting. Here, I work with forecasting electric power consumption in
 a single household, when given 4 years of data with a one-minute sampling rate. First, I try predicting a single time step into the future.
-I build and compare models such as linear, Neural Networks, CNNs, and LSTM Neural Networks. Then, I build and compare models that predict
+I build and compare models such as linear models, Neural Networks, CNNs, and LSTM Neural Networks. Then, I build and compare models that predict
 24 time steps into the future.
 [Github](https://github.com/lukemonington/household_electric_power_consumption)
 
