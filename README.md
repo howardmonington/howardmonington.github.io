@@ -43,6 +43,19 @@ implement machine learning. This required different methods of feature engineeri
 5 binary columns, 10 nominal columns, and 6 ordinal columns. 
 [Github](https://github.com/lukemonington/Categorical-Feature-Encoding-Challenge)
 
+### Household Electric Power Consumption
+One promising use of neural networks is for time series forecasting. Here, I work with forecasting electric power consumption in
+a single household, when given 4 years of data with a one-minute sampling rate. First, I try predicting a single time step into the future.
+I build and compare models such as linear, Neural Networks, CNNs, and LSTM Neural Networks. Then, I build and compare models that predict
+24 time steps into the future.
+[Github](https://github.com/lukemonington/household_electric_power_consumption)
+
+### Super Resolution
+[Github](https://github.com/lukemonington/super_resolution)
+
+### Genetic Algorithm
+[Github](https://github.com/lukemonington/genetic_algorithm)
+
 ### Don't Overfit AI Challenge - Machine Learning
 [Github](https://github.com/lukemonington/Don-t-Overfit-AI-Challenge)
 
@@ -51,15 +64,6 @@ implement machine learning. This required different methods of feature engineeri
 
 ### Fraud Detection - Machine Learning
 [Github](https://github.com/lukemonington/IEEE-CIS-Fraud-Detection-AI-Competition)
-
-### Household Electric Power Consumption
-[Github](https://github.com/lukemonington/household_electric_power_consumption)
-
-### Super Resolution
-[Github](https://github.com/lukemonington/super_resolution)
-
-### Genetic Algorithm
-[Github](https://github.com/lukemonington/genetic_algorithm)
 
 ### Car Rental Company Relational Database
 [Github](https://github.com/lukemonington/Car-Rental-Company-Relational-Database)
