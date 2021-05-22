@@ -43,7 +43,10 @@ to help a client with their business problem. A 15 minute presentation of this p
 
 ### Financial Statement XBRL Tag Classifier - NLP Binary Classifier
 Financial statements are treated very differently depending on whether they are classified as Industrial or Financial. In this project, I built out
-a deep learning NLP model to identify with 100% accuracy whether a financial statement is Industrial or Financial. 
+a deep learning NLP model to identify with 100% accuracy whether a financial statement is Industrial or Financial.
+
+### IMDB - EDA
+In this project I performed EDA to get a better understanding of an IMDB movie dataset.
 
 
 ### Categorical Feature Encoding Challenge - Machine Learning [Github](https://github.com/lukemonington/Categorical-Feature-Encoding-Challenge)
