@@ -36,10 +36,14 @@ In this project, I use OpenCV to detect faces and eyes in images using OpenCV's 
 also returns the location, height, and width of the face. I use that information in order to crop out the face from images and videos.
 From there, I use the VGGFace pretrained Neural Network to do One Shot Learning and perform real-time facial recognition with my webcam.
 
-### Facial Expression Recognition - OpenCV / CNN [Github](https://github.com/lukemonington/facial_emotion_recognition) [Video Presentation](youtube.com/watch?v=YucL6Jk8RMY&ab_channel=LukeMonington)
+### Facial Expression Recognition - OpenCV / CNN [Github](https://github.com/lukemonington/facial_emotion_recognition) 
 For this project, I used OpenCV's Haar classifier to identify a face, which I then fed into a deep CNN to identify the facial expression.
-I classified three different expressions: happy, sad, and neutral. Then, I built a explained how this technology could potentially be used
-to help a client with their business problem. A full presentation of this project can be found at the YouTube link.
+I classified three different expressions: happy, sad, and neutral. Then, I identified one way that this technology could potentially be used
+to help a client with their business problem. A 15 minute presentation of this project can be found here: [Video Presentation](youtube.com/watch?v=YucL6Jk8RMY&ab_channel=LukeMonington)
+
+### Financial Statement XBRL Tag Classifier - NLP Binary Classifier
+Financial statements are treated very differently depending on whether they are classified as Industrial or Financial. In this project, I built out
+a deep learning NLP model to identify with 100% accuracy whether a financial statement is Industrial or Financial. 
 
 
 ### Categorical Feature Encoding Challenge - Machine Learning [Github](https://github.com/lukemonington/Categorical-Feature-Encoding-Challenge)
