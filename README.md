@@ -36,14 +36,13 @@ In this project, I use OpenCV to detect faces and eyes in images using OpenCV's 
 also returns the location, height, and width of the face. I use that information in order to crop out the face from images and videos.
 From there, I use the VGGFace pretrained Neural Network to do One Shot Learning and perform real-time facial recognition with my webcam.
 
-### Facial Expression Recognition - OpenCV / CNN [Github](https://github.com/lukemonington/facial_emotion_recognition) | [Video Presentation](youtube.com/watch?v=YucL6Jk8RMY&ab_channel=LukeMonington)
+### Facial Expression Recognition - OpenCV / CNN [Github](https://github.com/lukemonington/facial_emotion_recognition) | [Video Presentation](https://youtu.be/YucL6Jk8RMY)
 For this project, I used OpenCV's Haar classifier to identify a face, which I then fed into a deep CNN to identify the facial expression.
 I classified three different expressions: happy, sad, and neutral. Then, I identified one way that this technology could potentially be used
 to help a client with their business problem. A 15 minute presentation of this project can be found at the link.
 
-### Financial Statement XBRL Tag Classifier - NLP Binary Classifier
-Financial statements are treated very differently depending on whether they are classified as Industrial or Financial. In this project, I built out
-a deep learning NLP model to identify with 100% accuracy whether a financial statement is Industrial or Financial.
+### Financial Statement XBRL Tag Classifier - NLP Binary Classifier [Github](https://github.com/lukemonington/financial-statement-classifier)
+Financial statements are treated very differently depending on whether they are classified as Industrial or Financial and they can be classified based on their usage of XBRL concepts in SEC 10-K/10-Q filings. In this project, I attempt to classify the financial statements first with a tokenizer and a machine learning algorithm to achieve 98% accuracy. Then, I build a neural network and am able to achieve 100% accuracy. After this, I investigate another method of feature engineering where I use a count vectorization instead of a tokenizer and am able to achieve 100% accuracy with just a Naive Bayes model.
 
 ### IMDB - EDA
 In this project I performed EDA to get a better understanding of an IMDB movie dataset.
