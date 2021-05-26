@@ -41,11 +41,11 @@ For this project, I used OpenCV's Haar classifier to identify a face, which I th
 I classified three different expressions: happy, sad, and neutral. Then, I identified one way that this technology could potentially be used
 to help a client with their business problem. A 15 minute presentation of this project can be found at the link.
 
-### Financial Statement XBRL Tag Classifier - NLP Binary Classifier [Github](https://github.com/lukemonington/financial-statement-classifier)
+### Financial Statement XBRL Tag Classifier - NLP Binary Classifier [Github](https://github.com/lukemonington/financial-statement-classifier) | [Writeup](https://github.com/lukemonington/financial-statement-classifier/blob/main/Write%20Up%20on%20My%20Approach.docx)
 Financial statements are treated very differently depending on whether they are classified as Industrial or Financial and they can be classified based on their usage of XBRL concepts in SEC 10-K/10-Q filings. In this project, I attempt to classify the financial statements first with a tokenizer and a machine learning algorithm to achieve 98% accuracy. Then, I build a neural network and am able to achieve 100% accuracy. After this, I investigate another method of feature engineering where I use a count vectorization instead of a tokenizer and am able to achieve 100% accuracy with just a Naive Bayes model.
 
-### IMDB - EDA
-In this project I performed EDA to get a better understanding of an IMDB movie dataset.
+### IMDB - EDA [Github](https://github.com/lukemonington/imdb-eda) | [PowerPoint Slides](https://github.com/lukemonington/imdb-eda/blob/main/Analysis%20of%20Movie%20Data.pptx)
+In this project I performed EDA to get a better understanding of an IMDB movie dataset. 
 
 
 ### Categorical Feature Encoding Challenge - Machine Learning [Github](https://github.com/lukemonington/Categorical-Feature-Encoding-Challenge)
