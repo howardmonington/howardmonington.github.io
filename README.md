@@ -45,7 +45,7 @@ to help a client with their business problem. A 15 minute presentation of this p
 Financial statements are treated very differently depending on whether they are classified as Industrial or Financial and they can be classified based on their usage of XBRL concepts in SEC 10-K/10-Q filings. In this project, I attempt to classify the financial statements first with a tokenizer and a machine learning algorithm to achieve 98% accuracy. Then, I build a neural network and am able to achieve 100% accuracy. After this, I investigate another method of feature engineering where I use a count vectorization instead of a tokenizer and am able to achieve 100% accuracy with just a Naive Bayes model.
 
 ### IMDB - EDA [Github](https://github.com/lukemonington/imdb-eda) | [PowerPoint Slides](https://github.com/lukemonington/imdb-eda/blob/main/Analysis%20of%20Movie%20Data.pptx)
-In this project I performed EDA to get a better understanding of an IMDB movie dataset. 
+In this scenario, I am a data scientist for a top movie studio. After a series of box office flops, the producers at my studio are starting to question their strategy and need some direction. The producers are asking that I spend some time analyzing the data and present a report detailing my findings along with recommendations on how to revamp the studio's strategy. In this project, I challenged myself to perform EDA to find useful information in only 4 hours. I wanted to demonstrate my ability to quickly and efficiently find patterns and trends in the data.
 
 
 ### Categorical Feature Encoding Challenge - Machine Learning [Github](https://github.com/lukemonington/Categorical-Feature-Encoding-Challenge)
