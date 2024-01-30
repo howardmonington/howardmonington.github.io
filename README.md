@@ -6,7 +6,7 @@ This portfolio is a compilation of AI notebooks which I wrote in order to explor
 In my current apartment, the shower temperature fluctuates frequently, especially 
 if someone flushes the toilet. In this project, I simulated the fluctuating shower environment and 
 built a reinforcement learning model with TensorFlow in order to keep the temperature within 
-the desired range. To do this, I built a Sequential Neural Network and used a DQNAgent with a BoltzmannQPolicy.
+the desired range. To do this, I built a Sequential Neural Network and used a DQNAgent with a BoltzmannQPolicy. 
 
 
 ### Landscape Recognition - CNN / Transfer Learning [Github](https://github.com/lukemonington/landscape_classification)
